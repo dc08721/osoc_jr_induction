@@ -1,4 +1,5 @@
-name deepak choudhary
+Check status.
+
 1.) git status
 
 • Add the new files.
