@@ -1,0 +1,22 @@
+name deepak choudhary
+1.) git status
+
+• Add the new files.
+2.) git add filename.txt
+
+• Commit the changes.
+3.) git commit -m “commit message”
+4.) git commit -am “add+commit”
+
+• Push the changes to GitHub.
+5.) git push origin main
+
+• Branching and merging
+6.) git branch
+7.) git branch <branchname>
+8.) git checkout <branchname>
+9.) git checkout -b <branchname>
+
+. Make the necessary changes
+10.) git merge <branchname>
+11.) git branch -d <branchname>
